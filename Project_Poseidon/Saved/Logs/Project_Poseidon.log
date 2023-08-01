@@ -2225,3 +2225,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.01-00.22.46:354][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.08.01-00.22.46:375][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2023.08.01-00.22.46:382][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 4.25 sec)
+[2023.08.01-00.30.29:660][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.08.01-00.30.29:662][782]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ShipWreck' took 0.024
+[2023.08.01-00.30.29:886][782]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Box] ([2] browsable assets)...
+[2023.08.01-00.30.29:887][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Box]
+[2023.08.01-00.30.29:969][782]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Box_Auto1
+[2023.08.01-00.30.29:970][782]LogSavePackage: Moving '../../../../../UE5_Projects/Project_Poseidon_GIT/Project_Poseidon/Saved/BP_Box_Auto1BDFC23A14F25CF594987E2A118411046.tmp' to '../../../../../UE5_Projects/Project_Poseidon_GIT/Project_Poseidon/Saved/Autosaves/Game/Blueprints/BP_Box_Auto1.uasset'
+[2023.08.01-00.30.29:970][782]LogFileHelpers: Auto-saving content packages took 0.309
