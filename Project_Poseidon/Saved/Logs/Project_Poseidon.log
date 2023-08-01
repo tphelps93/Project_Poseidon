@@ -1418,3 +1418,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.01-00.05.57:996][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.08.01-00.05.58:023][  0]LogViewport: Scene viewport resized to 2028x1237, mode Windowed.
 [2023.08.01-00.05.58:474][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.01-00.09.44:517][675]LogDerivedDataCache: C:/Users/tphel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:57.178 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 66926 files in 54263 folders with total size 11310 MiB.
